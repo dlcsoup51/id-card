@@ -1,0 +1,28 @@
+body{
+    background-color: yellow;
+  font-family: 'Lobster', cursive;
+  }
+  
+  
+  #idCard {
+    background-color: #f4f4f4;
+    background-position: left top;
+    border: 5px solid black;
+    height: 14em;
+    width: 25em;
+    margin: 7% auto 0 auto;
+    border-radius: 25px;
+    background-repeat: repeat;
+    padding: 20px;
+    width: 75em;
+    height: 42em;
+  
+  
+  }
+  
+  img {
+  
+    width: 90px;
+    height: 90px;
+    float: left;
+  }
